@@ -19,3 +19,6 @@ Programming the board is done via an external USB to serial interface, a 6 pin h
 
 ### Firmware
 Sample code is provided for basic board testing, a simple Wi-Fi demo with access point and an MQTT application.
+
+### More info
+https://www.mottramlabs.com/
