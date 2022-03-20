@@ -16,6 +16,3 @@ Programming the board is done via an external USB to serial interface, a 6 pin h
 ### *PCB Layout*
 ![Display-Type-B](Pictures/PIX201154.jpg?raw=true)
 
-![Display-Type-B](Pictures/SCH201154.pdf?raw=true)
-
-<object data="/blog/images/xxx.pdf" type="Pictures/SCH201154.pdf" width="100%"> </object>
